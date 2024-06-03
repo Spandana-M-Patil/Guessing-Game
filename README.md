@@ -26,12 +26,12 @@ pip install colorama pygame
 ## How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/number-guessing-game.git
+git clone https://github.com/Spandana-M-Patil/Guessing-Game.git
 ```
 2. Ensure you have the congs.mp3 and buzz.mp3 files in the same directory as the script.
 3. Run the script:
 ```bash
-python guessing_game.py
+python GuessingGame.py
 ```
 ## How to play
 1. Enter the lower and upper bounds for the number range.
